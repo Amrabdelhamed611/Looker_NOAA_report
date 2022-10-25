@@ -48,7 +48,7 @@ GROUP BY 1, 2, 3, 4 ;
 
 shareable link for the [dashboard](https://datastudio.google.com/reporting/87d0fd9e-15f1-4969-ad45-9e105f1130d4)
 
-<embed type="https://github.com/Amrabdelhamed611/Looker_NOAA_report/blob/main/dashboard%20image.png" src="pic.jpg">
+<embed type="https://raw.githubusercontent.com/Amrabdelhamed611/NOAA_report_dashboard/main/dashboard%20image.png" src="pic.jpg">
 
 
 ###End
